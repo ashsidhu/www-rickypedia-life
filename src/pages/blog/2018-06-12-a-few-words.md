@@ -7,3 +7,5 @@ tags:
   - brazil
 ---
 Hey guys, this is my very first blog post about my travels. Enjoy!
+
+![Ricky with motorcycle](/img/20180417_131327.jpg)
