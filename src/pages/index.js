@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
+import Helmet from 'react-helmet'
 
 export default class IndexPage extends React.Component {
   render() {
@@ -9,6 +10,7 @@ export default class IndexPage extends React.Component {
 
     return (
       <section className="section">
+        <Helmet title="Home | rickypedia.life"/>
         <div className="container">
           <div className="content">
             <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
