@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Who is behind rickypedia.life?
+title: What is Rickypedia Motorcycle Adventures?
 ---
 ![Ricky with motorcycle](/img/instagram-6part.jpg)
 
@@ -9,11 +9,13 @@ And if you make it till the end of this page, you will waste 5 minutes of your p
 
 # About me
 
-* My name is Aneesh Mittal, but my name is also Ricky.
-* I am the CEO and Co-founder of Rickypedia<sup>TM</sup>.
-* I studied engineering (everyone in India does that, right?)
-* I am very lazy, but I am also very restless. When I am not sleeping, I am eating. After eating, I like to sleep again. In my sleep I generally dream about eating.
-* And BTW, if it's not already obvious, I am a motorcycle traveller.
+My name is _Aneesh Mittal_. But my name is also _Ricky_. You can call me whichever you can pronounce right. I am the CEO and Co-founder of Rickypedia.
+
+I studied engineering (everyone in India does that, right?) I am very lazy, but I am also very restless. When I am not sleeping, I am eating. After eating, I like to sleep again. In my sleep I generally dream about eating.
+
+![Never had a real job in my life. But had a lot of professional photo shoots!](/img/photo_cv_aneesh.jpg)
+
+And BTW, if it's not already obvious, I am a motorcycle traveller.
 
 ## FAQ
 
@@ -25,9 +27,9 @@ I was born in a small city called Bathinda, in Punjab, India. This town is very 
 
 I think I am full of knowledge and wisdom. I am like Wikipedia. But my name is Ricky. So Rickypedia. Get it? Wikipedia, Rickypedia.. Did you notice the extremely intelligent wordplay? OK nevermind.
 
-_Ok, seriously, with this blog, I will try to share some experiences from my 1 year solo motorcycle journey in South America._
+_Ok, seriously, with this blog, I will primarily try to share some experiences from my 1 year solo motorcycle journey in South America. Sometimes I will also share other stories and views, but motorcycle would probably remain the central theme._
 
-### So, are you travelling alone on a motorcycle in South America? Are you crazy?
+### So, you are travelling alone on a motorcycle in South America? Are you crazy?
 
 No, I am not crazy. Trust me, I got checked from a professional. 
 
@@ -53,7 +55,7 @@ WhatsApp: +49 17643241152
 
 ## Testimonials
 
-> _"I like Ricky because he also ride the Yamaha. And he is very fast. I am very lucky that he ride in South America, and not in MotoGP. Otherwise it is very difficult for anyone else to win hahaha. He push very hard!"_, Valentino Rossi, (2nd) Fastest Man on 2 Wheels
+> _"I like Ricky because he also ride the Yamaha. And he is very fast! Faaacckk! I am very lucky that he ride in South America, and not in MotoGP. Otherwise it is very difficult for anyone else to win hahaha. He push very hard!"_, Valentino Rossi, (2nd) Fastest Man on 2 Wheels
 >
 > _"Ricky is an awesome guy! He helped me write a song. Maybe you have heard 'Ar Condicionado'."_, Wesley Safadou, YouTube Star
 >
