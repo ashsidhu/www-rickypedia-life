@@ -2,8 +2,6 @@
 templateKey: about-page
 title: What is Rickypedia Motorcycle Adventures?
 ---
-![Ricky with motorcycle](/img/instagram-6part.jpg)
-
 You must be really jobless (like me) to be reading this!
 And if you make it till the end of this page, you will waste 5 minutes of your precious life. I will try my best to explain who I am, as honestly as possible. But no promises.
 
@@ -13,9 +11,9 @@ My name is _Aneesh Mittal_. But my name is also _Ricky_. You can call me whichev
 
 I studied engineering (everyone in India does that, right?) I am very lazy, but I am also very restless. When I am not sleeping, I am eating. After eating, I like to sleep again. In my sleep I generally dream about eating.
 
-![Never had a real job in my life. But had a lot of professional photo shoots!](/img/photo_cv_aneesh.jpg)
-
 And BTW, if it's not already obvious, I am a motorcycle traveller.
+
+![](/img/untitled-1.jpg)
 
 ## FAQ
 
