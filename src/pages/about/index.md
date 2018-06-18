@@ -59,8 +59,11 @@ WhatsApp: +49 17643241152
 >
 > _"This is a real adventure you are doing. Very inspiring. If you plan to come to USA, The Wall is open for you."_, Donald Trump, Comedian
 >
+> _"Sorry bro, I was in Russia when you came to my country. Otherwise I would invite you to the best Asado in the world! Hope you had a good time anyway."_, Lionel Messi, Model
+>
 > _"I am following Ricky's adventures since a long time. He inspired a lot of people in our country, including me, to travel to many countries!"_, Narendra Modi, Adventurer/Traveler/Revolutionary
 >
-> _"Oh my God! He is so cute! I am falling in love! <3"_, All the girls
+> _"This guy is a genius. I always consult him before doing any stunts in my movies."_, Tom Cruise, Cross-country runner
 >
-> _"This guy is a genius. I always consult him before doing any stunts in my movies."_, Tom Cruise
+> _"Oh my God! He is so cute! I am falling in love! <3"_, All the girls
+
