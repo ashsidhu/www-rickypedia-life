@@ -8,7 +8,9 @@ description: >-
   barbecue meat all around. Seems like a scene from the American Outback,
   doesn't it? Nope, this is actually the other end of the American subcontinent.
 tags:
-  - Argentina Motorcycle Politics
+  - Argentina
+  - Motorcycle
+  - Politics
 ---
 ![](/img/6.jpg)
 
