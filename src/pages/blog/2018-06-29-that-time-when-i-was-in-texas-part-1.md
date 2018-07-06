@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: That time when I was in.. Texas? (Part 1)
 date: '2018-06-29T10:07:51-04:00'
-description: Part 1 of some of my experiences in Argentina
+description: Part 1 of some of my experiences in Argentina..
 tags:
   - Argentina
   - Motorcycle
