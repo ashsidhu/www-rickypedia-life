@@ -42,4 +42,4 @@ Where have I heard this before? Every country really. Most recently in Brazil.
 
 My friends Christ and his girlfriend Valeria took me out for a tour of Buenos Aires. This is the first time I was really learning about the history and politics of this country, the numerous military coupes in the history and the economic problems plaguing this beautiful nation.
 
-[Part 2 here](https://rickypedia.life/blog/2018-07-06-that-time-when-i-was-in-texas-part-2/)
+[Part 2 here] (https://rickypedia.life/blog/2018-07-06-that-time-when-i-was-in-texas-part-2/)
