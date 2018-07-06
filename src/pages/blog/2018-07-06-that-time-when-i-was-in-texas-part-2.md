@@ -2,12 +2,7 @@
 templateKey: blog-post
 title: That time when I was in.. Texas? (Part 2)
 date: '2018-07-06T09:57:11-04:00'
-description: >-
-  The Argentine peso is falling rapidly compared to Dollar, and everything is
-  becoming more expensive every day. The monthly household bills have doubled in
-  the last 6 months. The government has always taken the wrong economic
-  decision, leaving a once-upon-a-time rich country asking for IMF loan to
-  prevent crisis. Protests happen every day in all major cities of the country.
+description: Part 2 of some of my experiences in Argentina..
 tags:
   - Argentina
   - food
@@ -15,6 +10,11 @@ tags:
   - cordoba
   - corrientes
 ---
+[Part 1 here.](https://rickypedia.life/blog/2018-06-29-that-time-when-i-was-in-texas-part-1/)
+
+
+The Argentine peso is falling rapidly compared to Dollar, and everything is becoming more expensive every day. The monthly household bills have doubled in the last 6 months. The government has always taken the wrong economic decision, leaving a once-upon-a-time rich country asking for IMF loan to prevent crisis. Protests happen every day in all major cities of the country.
+
 But the food is amazing! Today, it's the traditional world-famous Parilla, a huge selection of different parts of meat grilled over coal. From rib-eye steak to liver and intestine, everything is present. No part of the animal goes to waste. Accompanied by Wine, of course.  Good to have friends who know what they are ordering. But a _Malbec_ from Mendoza is never bad.
 
 ![null](/img/5.jpg)
