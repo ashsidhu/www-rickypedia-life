@@ -5,10 +5,11 @@ date: '2018-07-06T09:57:11-04:00'
 description: Part 2 of some of my experiences in Argentina..
 tags:
   - Argentina
-  - food
-  - motorcycle
-  - cordoba
-  - corrientes
+  - Food
+  - Motorcycle
+  - Cordoba
+  - Corrientes
+  - Politics
 ---
 [Part 1 here.](https://rickypedia.life/blog/2018-06-29-that-time-when-i-was-in-texas-part-1/)
 
