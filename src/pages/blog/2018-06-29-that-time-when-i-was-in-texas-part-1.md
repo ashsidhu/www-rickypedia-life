@@ -2,16 +2,19 @@
 templateKey: blog-post
 title: That time when I was in.. Texas? (Part 1)
 date: '2018-06-29T10:07:51-04:00'
-description: >-
-  Long straight roads, nothing but empty farmlands all around, cowboys riding
-  horses, huge SUVs overtaking at high speeds, smell of burning coal and
-  barbecue meat all around. Seems like a scene from the American Outback,
-  doesn't it? Nope, this is actually the other end of the American subcontinent.
+description: Part 1 of some of my experiences in Argentina
 tags:
   - Argentina
   - Motorcycle
   - Politics
+  - Food
+  - Buenos Aires
+  - ''
 ---
+[Part 2 here](https://rickypedia.life/blog/2018-07-06-that-time-when-i-was-in-texas-part-2/)
+
+Long straight roads, nothing but empty farmlands all around, cowboys riding horses, huge SUVs overtaking at high speeds, smell of burning coal and barbecue meat all around. Seems like a scene from the American Outback, doesn't it? Nope, this is actually the other end of the American subcontinent.
+
 ![](/img/6.jpg)
 
 ```
@@ -39,4 +42,4 @@ Where have I heard this before? Every country really. Most recently in Brazil.
 
 My friends Christ and his girlfriend Valeria took me out for a tour of Buenos Aires. This is the first time I was really learning about the history and politics of this country, the numerous military coupes in the history and the economic problems plaguing this beautiful nation.
 
-_to be continued.._
+[Part 2 here](https://rickypedia.life/blog/2018-07-06-that-time-when-i-was-in-texas-part-2/)
