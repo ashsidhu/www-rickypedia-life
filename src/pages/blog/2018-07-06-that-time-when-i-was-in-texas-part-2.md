@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: That time when I was in.. Texas? (Part 2)
 date: '2018-07-06T09:57:11-04:00'
-description: Part 2 of some of my experiences in Argentina..
+description: Part 2 of some of my experiences in Argentina...
 tags:
   - Argentina
   - Food
