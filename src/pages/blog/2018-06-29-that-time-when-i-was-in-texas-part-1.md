@@ -9,8 +9,8 @@ tags:
   - Politics
   - Food
   - Buenos Aires
-  - ''
 ---
+
 [Part 2 here](https://rickypedia.life/blog/2018-07-06-that-time-when-i-was-in-texas-part-2/)
 
 Long straight roads, nothing but empty farmlands all around, cowboys riding horses, huge SUVs overtaking at high speeds, smell of burning coal and barbecue meat all around. Seems like a scene from the American Outback, doesn't it? Nope, this is actually the other end of the American subcontinent.
@@ -18,17 +18,16 @@ Long straight roads, nothing but empty farmlands all around, cowboys riding hors
 ![](/img/6.jpg)
 
 ```
-
 Photobombed by a big American Truck
-
 ```
+
 Not much comes to mind when Argentina is mentioned. Football, sure. Messi, to be specific. Maradona maybe. What else? Patagonia? That place in far south where many motorcycle travellers go? Apparently people love to eat meat.
 
 ![](/img/3.jpg)
+
 ```
 Infinite straight roads
 ```
-
 
 I didn't know much about Argentina before going there. Well, I was in Brazil for 6 months, where Argentina is 'not very famous'. I knew Mendoza and San Juan have a wine-rivalry. I knew Patagonia is out of my budget. I knew North of Argentina is more native. And of course, I knew Mate and Fernet.
 
@@ -42,4 +41,4 @@ Where have I heard this before? Every country really. Most recently in Brazil.
 
 My friends Christ and his girlfriend Valeria took me out for a tour of Buenos Aires. This is the first time I was really learning about the history and politics of this country, the numerous military coupes in the history and the economic problems plaguing this beautiful nation.
 
-[Part 2 here] (https://rickypedia.life/blog/2018-07-06-that-time-when-i-was-in-texas-part-2/)
+[Part 2 here](https://rickypedia.life/blog/2018-07-06-that-time-when-i-was-in-texas-part-2/)
