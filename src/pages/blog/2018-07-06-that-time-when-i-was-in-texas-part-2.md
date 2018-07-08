@@ -38,8 +38,7 @@ Costanera, mate and beautiful people
 
 ...
 
-_
-"Our current government is s#it!! All of them are s#it!! Our government has this habit, they always make the worse economic decisions ever for the country."_
+_"Our current government is s#it!! All of them are s#it!! Our government has this habit, they always make the worse economic decisions ever for the country."_
 
 Can't argue with that! In the 3 weeks I spent in Argentina, the value of argentine peso fell from 29 to 32 for 1 Euro. Good for me, because I'm carrying Euros? Not really! Everything is becoming expensive too.
 
