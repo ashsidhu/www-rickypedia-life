@@ -50,7 +50,7 @@ SP is a city of 20 million people. That is 10% of Brazil's population. This city
 
 ![null](/img/sp1.jpg)
 ```
-Motoboys don't look so cool!
+All.The.Gear.All.The.Time!
 ```
 
 No wonder then, that I hate being called a Motoboy. Do you see me riding around in T-shirt, shorts and flip-flops? Never! I am ATGATT (I use my safety clothes every time I ride). No matter how hot it is, how sweaty and smelly I am, I always go in full riding gear. BTW, that 'smelly' part is obviously a joke, ladies.
