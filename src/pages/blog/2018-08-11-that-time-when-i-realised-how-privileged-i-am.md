@@ -15,7 +15,6 @@ tags:
   - salar de uyuni
   - motorcycle
   - friends
-  - ''
 ---
 "You're from Brazil! A country of millionaires! You must have money to pay this!" a random old guy chipped in.
 
